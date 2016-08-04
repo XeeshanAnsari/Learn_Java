@@ -1,0 +1,14 @@
+package nesting_of_method;
+import java.util.Scanner;
+public class  main {
+	public static void main(String ar[])
+	{
+		Scanner obj=new Scanner(System.in);
+		int a=obj.NextInt();
+		int b=obj.nextInt();
+				
+		nesting next=new nesting(a,b);
+		next.disp();
+	}
+
+}

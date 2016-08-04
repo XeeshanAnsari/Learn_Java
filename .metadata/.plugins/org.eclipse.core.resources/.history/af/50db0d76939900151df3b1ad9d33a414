@@ -1,0 +1,21 @@
+package task;
+
+public class task {
+	public static void main (String ar[])
+	{
+		int a;
+	    int b;
+	    int c;
+	    int f;
+		
+		for(f=1; f<=100; f++)
+		{	
+	        c=a+b;
+			System.out.println(""+c);
+			b=a;
+		    c=b;
+		}	
+			
+	}
+
+}

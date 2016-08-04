@@ -1,0 +1,33 @@
+package marksheet;
+
+public class c extends a {
+	void grate()
+	{
+		int grate;
+		if(obt>=80)
+		{
+			System.out.println("Grate is A+"+obt);
+		}
+		else if(obt>=70)
+		{
+			System.out.println("Grate is A"+obt);
+		}
+		else if(obt>=60)
+		{
+			System.out.println("Grate is b"+obt);
+		}
+		else if(obt>=50)
+		{
+			System.out.println("Grate is c"+obt);
+		}
+		else if(obt>=40)
+		{
+			System.out.println("Grate is d"+obt);
+		}
+		else 
+		{
+			System.out.println("you are fail "+obt);
+		}
+	}
+
+}

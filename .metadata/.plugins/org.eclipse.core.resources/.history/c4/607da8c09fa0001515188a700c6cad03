@@ -1,0 +1,18 @@
+package marksheet;
+
+import java.util.Scanner;
+
+public class main {
+	
+	public static void main(String args[])
+	{
+		int ma=0,eng=0,ur=0,com=0,phy=0;
+		c next=new c();
+		next.getdata(ma,eng,ur,com,phy);
+		next.obtain();
+		next.percntage();
+		next.grate();
+		
+	}
+
+}

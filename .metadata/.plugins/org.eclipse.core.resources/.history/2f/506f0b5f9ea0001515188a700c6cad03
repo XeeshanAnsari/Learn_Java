@@ -1,0 +1,10 @@
+package marksheet;
+
+public class b extends a {
+	int aver;
+	void average()
+	{
+		aver=(obt*100)/500;
+		System.out.println("Average is  "+aver);
+	}
+}

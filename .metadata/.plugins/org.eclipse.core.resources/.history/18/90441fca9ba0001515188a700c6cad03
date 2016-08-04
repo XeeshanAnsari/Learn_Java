@@ -1,0 +1,22 @@
+package marksheet;
+
+
+public class a {
+
+	int ma,eng,ur,com,phy;
+	void getdata(int a,int b,int c,int d,int e)
+	{
+		ma=a;
+		eng=b;
+		ur=c;
+		com=d;
+		phy=e;
+		
+	}
+	void obtain()
+	{
+		int obt;
+		obt=ma+eng+ur+com+phy;
+	}
+	
+}

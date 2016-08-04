@@ -1,0 +1,404 @@
+!SESSION 2015-12-02 22:46:21.187 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-02 22:46:51.937
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-02 22:46:51.953
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-02 22:46:51.968
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.resources 2 2 2015-12-02 22:51:18.312
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2015-12-02 22:51:18.312
+!MESSAGE The project description file (.project) for 'third_class' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SESSION 2015-12-03 22:19:14.375 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-12-03 22:20:34.546
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:20:46.453
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:20:46.484
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:20:46.484
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-03 22:22:34.859 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:22:52.515
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:22:52.515
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-03 22:22:52.515
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-04 02:36:22.671 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 02:37:21.421
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 02:37:21.546
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 02:37:21.546
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-04 05:49:45.500 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-12-04 05:50:01.359
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 05:50:08.234
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 05:50:08.250
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 05:50:08.250
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-04 10:06:16.765 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 10:06:57.281
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 10:06:57.328
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-04 10:06:57.328
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-06 02:29:00.921 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 02:29:28.296
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 02:29:28.328
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 02:29:28.343
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-06 09:41:39.296 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 09:42:34.031
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 09:42:34.078
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-06 09:42:34.078
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-07 01:43:59.718 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-07 01:49:21.718
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-07 01:49:21.750
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-07 01:49:21.765
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-09 22:19:25.562 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:19:46.656
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:19:46.703
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:19:46.703
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-09 22:40:18.546 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:40:32.875
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:40:32.890
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:40:32.890
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-09 22:43:15.015 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:43:43.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:43:43.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-09 22:43:43.687
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-11 11:41:52.109 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 11:42:13.890
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 11:42:13.937
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 11:42:13.937
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-11 23:50:05.796 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-12-11 23:50:30.406
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 23:50:40.468
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 23:50:40.484
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-11 23:50:40.484
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-12 00:31:28.546 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 00:31:53.578
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 00:31:53.625
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 00:31:53.625
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-12 10:22:03.515 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 10:22:25.234
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 10:22:25.265
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 10:22:25.265
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-12 23:39:16.890 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-12-12 23:39:33.734
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 23:39:44.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 23:39:44.703
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-12 23:39:44.703
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-12-12 23:42:06.796
+!MESSAGE Invalid ZIP archive: src/ne/jframe.java [in w]
+
+!ENTRY org.eclipse.jdt.core 4 0 2015-12-12 23:42:10.796
+!MESSAGE Invalid ZIP archive: src/ne/jframe.java [in w]
+!SESSION 2015-12-13 03:41:42.906 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 03:42:04.625
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 03:42:04.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 03:42:04.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-13 11:04:00.453 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2015-12-13 11:04:15.062
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 11:04:24.890
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 11:04:24.921
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-13 11:04:24.921
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-14 10:36:33.125 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-14 10:37:30.671
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-14 10:37:30.718
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-14 10:37:30.718
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+!SESSION 2015-12-15 11:01:36.218 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_66
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-15 11:02:01.187
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-15 11:02:01.218
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.
+
+!ENTRY org.eclipse.core.net 4 0 2015-12-15 11:02:01.218
+!MESSAGE WinHttp.GetIEProxyConfigForCurrentUser failed with error 'The system cannot find the file specified.
+' #2.

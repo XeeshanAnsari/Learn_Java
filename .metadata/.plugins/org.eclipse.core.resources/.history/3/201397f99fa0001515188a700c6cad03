@@ -1,0 +1,13 @@
+package marksheet;
+
+
+public class a extends input{
+
+	void obtain()
+	{
+		
+		obt=ma+eng+ur+com+phy;
+		System.out.println("Obtain marks is   "+obt);
+	}
+	
+}

@@ -1,0 +1,33 @@
+package marksheet;
+
+import java.util.Scanner;
+
+public class input {
+	
+	int ma,eng,ur,com,phy;
+	int obt;
+	void getdata(int a,int b,int c,int d,int e)
+	{
+		ma=a;
+		eng=b;
+		ur=c;
+		com=d;
+		phy=e;
+		
+	}
+	void input()
+	{
+		Scanner obj=new Scanner(System.in);
+		System.out.print("Enter Math MArks       ");
+		ma=obj.nextInt();
+		System.out.print("Enter English MArks    ");
+		eng=obj.nextInt();
+		System.out.print("Enter urdu MArks       ");
+		ur=obj.nextInt();
+		System.out.print("Enter computer MArks   ");
+		com=obj.nextInt();
+		System.out.print("Enter physic MArks     ");
+		phy=obj.nextInt();
+	}
+
+}
